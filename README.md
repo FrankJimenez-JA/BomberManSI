@@ -1,4 +1,4 @@
-🎮 BomberManSI 🎮
+🎮BOMBERMANSI
 
 🧠 Patrones de Diseño Utilizados
 
