@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documentos\\Unreal Projects\\BomberManSI\\Source\\BomberManSI\\BomberManSI.Build.cs",
+		"D:\\Documentos\\Unreal Projects\\BomberManSI\\Source\\BomberManSI.Target.cs",
+		"D:\\Documentos\\Unreal Projects\\BomberManSI\\Source\\BomberManSIEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
